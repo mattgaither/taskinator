@@ -33,8 +33,7 @@ header p {
   font-size: 2rem;
 }
 
-p,
-li {
+p, li {
   font-size: 1.6rem;
 }
 
@@ -228,5 +227,4 @@ footer {
   .task-list-wrapper {
     flex-basis: 100%;
   }
-
 }
